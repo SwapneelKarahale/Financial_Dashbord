@@ -21,7 +21,7 @@ A simple financial dashboard built using **React**, **Redux**, **Redux Thunk**, 
 ### **Installation**
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/Govindrajewar/Financial_Dashboard.git
+    git clone https://github.com/SwapneelKarahale/Financial_Dashbord.git
     ```
 
 2. Install Dependencies:
